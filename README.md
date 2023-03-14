@@ -1,11 +1,6 @@
 ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
+@@ ### Machine Learning Book Collections@@
 ```
-### Machine Learning Book Collections
 ![Machine Learning Book Collection](https://user-images.githubusercontent.com/105699438/225073239-f4553110-4e22-4396-b3d1-8cceb412bc25.png)
 
 1. Machine Learning by Tutorials_ Beginning Machine Learning for Apple and iOS.pdf
