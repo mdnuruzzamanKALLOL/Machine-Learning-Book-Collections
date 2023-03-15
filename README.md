@@ -6,7 +6,7 @@
 3. Multisensor Data Fusion and Machine Learning for Environmental Remote Sensing.pdf
 4. Hands-On Machine Learning with Scikit-Learn and TensorFlow_ Concepts, Tools, and Techniques to Build Intelligent Systems.pdf
 5. Pro Machine Learning Algorithms_ A Hands-On Approach to Implementing Algorithms in Python and R.pdf
-6. Python Machine Learning (1).pdf
+6. Python Machine Learning.pdf
 7. Introduction to Machine Learning with Python.pdf
 8. A Beginner's Tutorial for Machine Learning Beginners.pdf
 9. Machine Learning_ A Probabilistic Perspective.pdf
